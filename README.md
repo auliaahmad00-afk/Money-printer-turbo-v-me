@@ -1,37 +1,37 @@
-&lt;div align="center"&gt;
-&lt;h1 align="center"&gt;MoneyPrinterTurbo 💸&lt;/h1&gt;
+<div align="center">
+<h1 align="center">MoneyPrinterTurbo 💸</h1>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://github.com/harry0703/MoneyPrinterTurbo/stargazers"&gt;&lt;img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/harry0703/MoneyPrinterTurbo/issues"&gt;&lt;img src="https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/harry0703/MoneyPrinterTurbo/network/members"&gt;&lt;img src="https://img.shields.io/github/forks/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Forks"&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/harry0703/MoneyPrinterTurbo/blob/main/LICENSE"&gt;&lt;img src="https://img.shields.io/github/license/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"&gt;&lt;/a&gt;
-&lt;/p&gt;
-&lt;br&gt;
-&lt;h3&gt;简体中文 | &lt;a href="README-en.md"&gt;English&lt;/a&gt; | &lt;a href="README-ar.md"&gt;العربية&lt;/a&gt;&lt;/h3&gt;
-&lt;div align="center"&gt;
-  &lt;a href="https://trendshift.io/repositories/8731" target="_blank"&gt;&lt;img src="https://trendshift.io/api/badge/repositories/8731" alt="harry0703%2FMoneyPrinterTurbo | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/&gt;&lt;/a&gt;
-&lt;/div&gt;
+<p align="center">
+  <a href="https://github.com/harry0703/MoneyPrinterTurbo/stargazers"><img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/harry0703/MoneyPrinterTurbo/issues"><img src="https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/harry0703/MoneyPrinterTurbo/network/members"><img src="https://img.shields.io/github/forks/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/harry0703/MoneyPrinterTurbo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"></a>
+</p>
+<br>
+<h3>简体中文 | <a href="README-en.md">English</a> | <a href="README-ar.md">العربية</a></h3>
+<div align="center">
+  <a href="https://trendshift.io/repositories/8731" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8731" alt="harry0703%2FMoneyPrinterTurbo | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
 
-&lt;br&gt;
-只需提供一个视频 &lt;b&gt;主题&lt;/b&gt; 或 &lt;b&gt;关键词&lt;/b&gt; ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
-&lt;br&gt;
+<br>
+只需提供一个视频 <b>主题</b> 或 <b>关键词</b> ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一个高清的短视频。
+<br>
 
-&lt;p align="center"&gt;
-  &lt;sub&gt;
-    感谢 &lt;a href="https://aihubmix.com/?aff=CEve"&gt;AIHubMix&lt;/a&gt; 对本项目的赞助。AIHubMix 深度适配 OpenAI、Claude、Gemini、DeepSeek、智谱、千问等全球顶级最新模型，一站式快速接入 GPT-5.5、deepseek-v4-flash 等 700+ 模型（含多个免费模型），提供企业级生产稳定性保障。
-  &lt;/sub&gt;
-&lt;/p&gt;
+<p align="center">
+  <sub>
+    感谢 <a href="https://aihubmix.com/?aff=CEve">AIHubMix</a> 对本项目的赞助。AIHubMix 深度适配 OpenAI、Claude、Gemini、DeepSeek、智谱、千问等全球顶级最新模型，一站式快速接入 GPT-5.5、deepseek-v4-flash 等 700+ 模型（含多个免费模型），提供企业级生产稳定性保障。
+  </sub>
+</p>
 
-&lt;h4&gt;Web界面&lt;/h4&gt;
+<h4>Web界面</h4>
 
 ![](docs/webui.jpg)
 
-&lt;h4&gt;API界面&lt;/h4&gt;
+<h4>API界面</h4>
 
 ![](docs/api.jpg)
 
-&lt;/div&gt;
+</div>
 
 ## 功能特性 🎯
 
@@ -53,39 +53,39 @@
 
 ### 竖屏 9:16
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align="center"&gt;&lt;g-emoji class="g-emoji" alias="arrow_forward"&gt;▶️&lt;/g-emoji&gt; 《如何增加生活的乐趣》&lt;/th&gt;
-&lt;th align="center"&gt;&lt;g-emoji class="g-emoji" alias="arrow_forward"&gt;▶️&lt;/g-emoji&gt; 《金钱的作用》&lt;br&gt;更真实的合成声音&lt;/th&gt;
-&lt;th align="center"&gt;&lt;g-emoji class="g-emoji" alias="arrow_forward"&gt;▶️&lt;/g-emoji&gt; 《生命的意义是什么》&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align="center"&gt;&lt;video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"&gt;&lt;/video&gt;&lt;/td&gt;
-&lt;td align="center"&gt;&lt;video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/af2f3b0b-002e-49fe-b161-18ba91c055e8"&gt;&lt;/video&gt;&lt;/td&gt;
-&lt;td align="center"&gt;&lt;video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"&gt;&lt;/video&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+<thead>
+<tr>
+<th align="center"><g-emoji class="g-emoji" alias="arrow_forward">▶️</g-emoji> 《如何增加生活的乐趣》</th>
+<th align="center"><g-emoji class="g-emoji" alias="arrow_forward">▶️</g-emoji> 《金钱的作用》<br>更真实的合成声音</th>
+<th align="center"><g-emoji class="g-emoji" alias="arrow_forward">▶️</g-emoji> 《生命的意义是什么》</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"></video></td>
+<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/af2f3b0b-002e-49fe-b161-18ba91c055e8"></video></td>
+<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"></video></td>
+</tr>
+</tbody>
+</table>
 
 ### 横屏 16:9
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align="center"&gt;&lt;g-emoji class="g-emoji" alias="arrow_forward"&gt;▶️&lt;/g-emoji&gt;《生命的意义是什么》&lt;/th&gt;
-&lt;th align="center"&gt;&lt;g-emoji class="g-emoji" alias="arrow_forward"&gt;▶️&lt;/g-emoji&gt;《为什么要运动》&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align="center"&gt;&lt;video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"&gt;&lt;/video&gt;&lt;/td&gt;
-&lt;td align="center"&gt;&lt;video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"&gt;&lt;/video&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+<table>
+<thead>
+<tr>
+<th align="center"><g-emoji class="g-emoji" alias="arrow_forward">▶️</g-emoji>《生命的意义是什么》</th>
+<th align="center"><g-emoji class="g-emoji" alias="arrow_forward">▶️</g-emoji>《为什么要运动》</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"></video></td>
+<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"></video></td>
+</tr>
+</tbody>
+</table>
 
 ## 配置要求 📦
 
