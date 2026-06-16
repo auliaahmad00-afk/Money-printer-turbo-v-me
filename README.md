@@ -1,0 +1,1 @@
+"$(cat /home/user/Money-printer-turbo-v-me/README.md)"
